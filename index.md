@@ -4,8 +4,7 @@
 
 layout: home
 ---
-
-# Welcome to Pine Springs!
+Welcome to Pine Springs!
 
 I can't wait to see you!
 

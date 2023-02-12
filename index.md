@@ -4,7 +4,9 @@
 
 layout: home
 ---
+
+
 # Welcome to Pine Springs!
 
-## I can't wait to see you!
+I can't wait to see you!
 

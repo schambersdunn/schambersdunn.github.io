@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+
+# Welcome to Pine Springs!
+

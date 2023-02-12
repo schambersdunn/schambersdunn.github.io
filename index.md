@@ -1,3 +1,3 @@
 # Welcome index.md!
 
-[about us](about.md)
+[About us!](about.md)
